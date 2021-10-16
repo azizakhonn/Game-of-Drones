@@ -21,6 +21,7 @@ from (
                       join data_policebeat as dpu
                            on trr.officer_unit_id = dpu.unit_id) as view1
                        on view1.view1_area_id = da.id
+         where unit_description LIKE '%DISTRICT - %'
          group by area_id, unit_description, officer_injured, subject_injured, total_number_of_shots,
                   number_of_officers_using_firearm, number_of_weapons_discharged
      ) as view2
