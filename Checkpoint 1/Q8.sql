@@ -1,4 +1,4 @@
---Weapons Discharges based on the police districts
+--Weapons Discharges related disparity based on the police districts
 select
        unit_description as District_Number_Name,
        count(officer_injured) as No_of_injured_Officers,

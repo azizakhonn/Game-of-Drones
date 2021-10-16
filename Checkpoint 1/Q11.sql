@@ -1,4 +1,4 @@
--- Search Warrants and Potential Misallegation Searches based on the police districts
+-- Search Warrants and Potential Allegation Searches based on the police districts
 select
        officer_area_beat.unit_description as District_Number_Name,
        count(distinct(dsw.warrant_id)) as No_of_Warrents_Issued,

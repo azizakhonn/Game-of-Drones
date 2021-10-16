@@ -1,4 +1,4 @@
---Weapons Discharges based on the police districts
+--Awards Disparity based on the police districts
 select
        unit_description as District_Number_Name,
        sum(major_award_count) as No_of_Awards,
