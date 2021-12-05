@@ -1,0 +1,45 @@
+district_name,complainter,complaints,disciplinations
+Albany Park,internal,176,87
+Austin,internal,176,81
+Calumet,internal,286,147
+Central,internal,257,137
+Chicago Lawn,internal,290,139
+Deering,internal,208,95
+Englewood,internal,254,134
+Grand Central,internal,204,102
+Grand Crossing,internal,253,127
+Gresham,internal,264,135
+Harrison,internal,213,107
+Jefferson Park,internal,229,91
+Lincoln,internal,204,89
+Morgan Park,internal,247,113
+Near North,internal,266,117
+Near West,internal,217,104
+Ogden,internal,181,82
+Rogers Park,internal,155,63
+Shakespeare,internal,190,93
+South Chicago,internal,248,118
+Town Hall,internal,255,111
+Wentworth,internal,365,202
+Albany Park,external,515,145
+Austin,external,498,163
+Calumet,external,588,210
+Central,external,746,265
+Chicago Lawn,external,724,217
+Deering,external,543,156
+Englewood,external,647,229
+Grand Central,external,593,156
+Grand Crossing,external,591,248
+Gresham,external,633,254
+Harrison,external,510,143
+Jefferson Park,external,654,184
+Lincoln,external,514,155
+Morgan Park,external,581,235
+Near North,external,755,310
+Near West,external,594,171
+Ogden,external,516,147
+Rogers Park,external,453,126
+Shakespeare,external,466,176
+South Chicago,external,625,245
+Town Hall,external,661,184
+Wentworth,external,688,322

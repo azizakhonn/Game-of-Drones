@@ -1,0 +1,89 @@
+Description,Race,precent_population
+Albany Park,Black,0.033186
+Austin,Black,0.932894
+Calumet,Black,0.941771
+Central,Black,0.214269
+Chicago Lawn,Black,0.211094
+Deering,Black,0.115278
+Englewood,Black,0.967863
+Grand Central,Black,0.164843
+Grand Crossing,Black,0.943843
+Gresham,Black,0.974505
+Harrison,Black,0.846709
+Jefferson Park,Black,0.010136
+Lincoln,Black,0.108557
+Morgan Park,Black,0.609117
+Near North,Black,0.091259
+Near West,Black,0.180177
+Ogden,Black,0.333974
+Rogers Park,Black,0.179540
+Shakespeare,Black,0.068177
+South Chicago,Black,0.618240
+Town Hall,Black,0.066265
+Wentworth,Black,0.691468
+Albany Park,Hispanic,0.431879
+Austin,Hispanic,0.038094
+Calumet,Hispanic,0.033927
+Central,Hispanic,0.059986
+Chicago Lawn,Hispanic,0.565357
+Deering,Hispanic,0.572696
+Englewood,Hispanic,0.016420
+Grand Central,Hispanic,0.663727
+Grand Crossing,Hispanic,0.014927
+Gresham,Hispanic,0.010062
+Harrison,Hispanic,0.115191
+Jefferson Park,Hispanic,0.227780
+Lincoln,Hispanic,0.180973
+Morgan Park,Hispanic,0.032548
+Near North,Hispanic,0.049607
+Near West,Hispanic,0.331034
+Ogden,Hispanic,0.621891
+Rogers Park,Hispanic,0.210908
+Shakespeare,Hispanic,0.458977
+South Chicago,Hispanic,0.286312
+Town Hall,Hispanic,0.099733
+Wentworth,Hispanic,0.033969
+Albany Park,Other,0.148089
+Austin,Other,0.012883
+Calumet,Other,0.012971
+Central,Other,0.200873
+Chicago Lawn,Other,0.015398
+Deering,Other,0.164890
+Englewood,Other,0.012030
+Grand Central,Other,0.024861
+Grand Crossing,Other,0.021665
+Gresham,Other,0.011999
+Harrison,Other,0.014488
+Jefferson Park,Other,0.070066
+Lincoln,Other,0.169053
+Morgan Park,Other,0.016343
+Near North,Other,0.103690
+Near West,Other,0.083883
+Ogden,Other,0.007723
+Rogers Park,Other,0.180675
+Shakespeare,Other,0.049797
+South Chicago,Other,0.015133
+Town Hall,Other,0.084194
+Wentworth,Other,0.088612
+Albany Park,White,0.386846
+Austin,White,0.016129
+Calumet,White,0.011331
+Central,White,0.524872
+Chicago Lawn,White,0.208151
+Deering,White,0.147136
+Englewood,White,0.003686
+Grand Central,White,0.146568
+Grand Crossing,White,0.019565
+Gresham,White,0.003435
+Harrison,White,0.023612
+Jefferson Park,White,0.692017
+Lincoln,White,0.541417
+Morgan Park,White,0.341992
+Near North,White,0.755445
+Near West,White,0.404907
+Ogden,White,0.036412
+Rogers Park,White,0.428877
+Shakespeare,White,0.423049
+South Chicago,White,0.080316
+Town Hall,White,0.749808
+Wentworth,White,0.185951
