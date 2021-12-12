@@ -3,11 +3,7 @@
 ------
 Our analysis is shown in the findings report and the colab notebook.
 
-**
-
 ## Instructions on how to run the notebook:
-
-**
 
  - Packages needed to import:
            base64
